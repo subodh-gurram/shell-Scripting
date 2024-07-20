@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Hello World"
+echo "Script Completed and find the below details"
+echo "File Name:-$0"
+echo "user id:-$$"
+echo "File contains how many varibles:-$#"
+echo "Good Bye !......"
